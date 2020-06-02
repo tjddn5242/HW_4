@@ -9,5 +9,3 @@ if BMI >= 20.0 and BMI < 25.0:
     print("표준입니다")
 else:
     print("체중관리가 필요합니다")
-
-print(BMI)
